@@ -11,6 +11,9 @@ function Intro() {
         WhatsApp connects to your phone to sync messages. To reduce data usage,
         connect your phone to Wi-Fi.
       </p>
+      <p>
+        Developed by <a href="https://ragulcs.netlify.app" target="__blank">Ragul CS</a>
+      </p>
       <div className="spacer"></div>
     </div>
   );
