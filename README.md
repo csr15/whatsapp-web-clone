@@ -13,4 +13,4 @@
 - Netlify
 
 ## Link
-[Whatsapp-Web-Clone](https://whatsapp-web-clone.netlify.app)
+[Whatsapp-Web-Clone](https://whatsapp-web-clone-app.netlify.app)
