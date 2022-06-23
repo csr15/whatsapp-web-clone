@@ -9,7 +9,7 @@ const Inbox = (props) => {
     axios
       .get("https://dummyapi.io/data/api/user", {
         headers: {
-          "app-id": "60509309ca7752a58003a280",
+          "app-id": "662b3e13efd260038d08b3cdd",
         },
       })
       .then(({ data }) => {
